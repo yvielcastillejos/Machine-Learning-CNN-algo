@@ -1,4 +1,4 @@
-import tensorflow as tp
+import tensorflow as tf
 import keras
 from keras import layers
 import sequential_function
